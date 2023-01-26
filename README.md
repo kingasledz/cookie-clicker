@@ -8,5 +8,4 @@ In order to run the script the browser webdriver must be download (ex. [ChromeDr
 
 ## License
 All code released is under MIT license (c) 2023 Kinga Sledz
-## 
-Background photo by Muneeb Syed on Unsplash
+
