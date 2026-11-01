@@ -289,6 +289,18 @@
         <mxCell id="lBNsrM0WiBazo_-YOcfD-94" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="zaoblenie" vertex="1">
           <mxGeometry height="30" width="70" x="750" y="210" as="geometry" />
         </mxCell>
+        <mxCell id="lBNsrM0WiBazo_-YOcfD-95" edge="1" parent="1" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" x="-0.2821" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="270" />
+            </Array>
+            <mxPoint x="508.29999999999995" y="220" as="sourcePoint" />
+            <mxPoint x="390" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lBNsrM0WiBazo_-YOcfD-96" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="front podchwyt 1000" vertex="1">
+          <mxGeometry height="30" width="130" x="350" y="280" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
