@@ -199,6 +199,9 @@
         <mxCell id="lBNsrM0WiBazo_-YOcfD-62" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="podzial frontow do lodowki" vertex="1">
           <mxGeometry height="30" width="160" x="785" y="350" as="geometry" />
         </mxCell>
+        <mxCell id="lBNsrM0WiBazo_-YOcfD-63" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="sprawdzic szafke narozna" vertex="1">
+          <mxGeometry height="30" width="160" x="265" y="340" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
